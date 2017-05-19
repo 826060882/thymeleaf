@@ -5,4 +5,5 @@
   * [thymeleaf能渲染的模板](1.2processTemp.md)
   * [thymeleaf方言标准](1.3dialects.md)
 * 使用thymeleaf构建杂货店
+测试同步
 
