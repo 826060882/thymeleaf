@@ -8,6 +8,6 @@
 * [使用thymeleaf构建杂货店](shi-yong-thymeleaf-gou-jian-za-huo-dian.md)
   * [一个关于杂货店的网站](shi-yong-thymeleaf-gou-jian-za-huo-dian/creating-and-configuring-the-template-enginemd.md)
   * [创建并配置模板引擎](shi-yong-thymeleaf-gou-jian-za-huo-dian/chuang-jian-bing-pei-zhi-mo-ban-yin-qing.md)
-    * the-template-resolver.md
+    * [模板解析器](shi-yong-thymeleaf-gou-jian-za-huo-dian/chuang-jian-bing-pei-zhi-mo-ban-yin-qing/the-template-resolvermd.md)
     * The Template Engine
 

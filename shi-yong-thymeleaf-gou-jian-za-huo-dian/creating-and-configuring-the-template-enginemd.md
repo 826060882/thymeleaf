@@ -101,5 +101,5 @@ public interface IGTVGController {
 最后，会看到这样项目主页：
 ![](http://www.thymeleaf.org/doc/tutorials/3.0/images/usingthymeleaf/gtvg-view.png)
 
-现在让我们了接下模板引擎是怎么初始化的。
+现在让我们了解下模板引擎是怎么初始化的。
 
