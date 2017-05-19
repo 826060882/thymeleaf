@@ -6,7 +6,7 @@
   * [thymeleaf能渲染的模板](1.2processTemp.md)
   * [thymeleaf方言标准](1.3dialects.md)
 * [使用thymeleaf构建杂货店](shi-yong-thymeleaf-gou-jian-za-huo-dian.md)
-  * creating-and-configuring-the-template-engine.md
+  * [一个关于杂货店的网站](shi-yong-thymeleaf-gou-jian-za-huo-dian/creating-and-configuring-the-template-enginemd.md)
   * a-website-for-a-grocerymd.md
     * the-template-resolver.md
     * The Template Engine
