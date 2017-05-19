@@ -1,4 +1,3 @@
-<center>
 
 
 
@@ -18,5 +17,3 @@
 #### Project version: 3.0.5.RELEASE
 
 #### Project web site: http://www.thymeleaf.org
-
-</center>
